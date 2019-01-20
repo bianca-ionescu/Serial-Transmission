@@ -1,2 +1,2 @@
 # Serial-Transmission
-VHDL implementation
+Parallel Serial Transmission in VHDL
